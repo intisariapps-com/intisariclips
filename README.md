@@ -13,31 +13,34 @@ Tidak ada biaya *cloud*, tidak ada batasan server. Semua berjalan secara lokal, 
 
 ## 📺 CARA PENGGUNAAN (VIDEO TUTORIALS)
 
-Kami telah menyiapkan seri tutorial komprehensif untuk membantu Anda menguasai Intisari Clips, mulai dari instalasi awal hingga otomatisasi tingkat lanjut menggunakan Google Gemini. 
+Kami telah menyiapkan seri tutorial komprehensif untuk membantu Anda menguasai Intisari Clips, mulai dari instalasi awal, mengatasi proteksi YouTube, hingga otomatisasi tingkat lanjut menggunakan Google Gemini. 
 
-*(Klik gambar di bawah untuk menonton video tutorial di YouTube)*
+*(Klik gambar thumbnail di bawah untuk menonton video tutorial di YouTube)*
 
-### 🎬 Fase 1: Persiapan & Instalasi (The Foundation)
-Pelajari cara mengunduh *engine* lokal, mengekstrak folder `_internal` dengan benar, menyalakan server lokal (localhost:8588), dan memasang **Intisari Extractor** di browser Chrome Anda.
+### 🎬 FASE 0: Bypass 403 (Anti-Bot) Download Video YouTube
+**Wajib ditonton!** Panduan khusus dan mudah dipahami tentang cara mengambil file `cookies.txt` dari browser Anda. Ini adalah kunci rahasia agar mesin *downloader* kita tidak diblokir (Error 403) oleh sistem *Anti-Bot* YouTube saat mengunduh video secara massal.
 
-[![Tutorial Fase 1](https://img.youtube.com/vi/YOUR_VIDEO_ID_1/maxresdefault.jpg)](https://youtu.be/YOUR_VIDEO_ID_1)
+[![Tutorial Fase 0](https://img.youtube.com/vi/-UtSmwa5Ebs/maxresdefault.jpg)](https://youtu.be/-UtSmwa5Ebs)
 
-### 🎬 Fase 2: Setup AI & Konfigurasi Awal (The Core Settings)
+### 🎬 FASE 1: Persiapan & Instalasi (The Foundation)
+Pelajari cara mengunduh *engine* lokal, mengekstrak folder `_internal` dengan benar, menyalakan server lokal (localhost:8588), dan memasang ekstensi **Intisari Extractor** di browser Chrome Anda.
+
+[![Tutorial Fase 1](https://img.youtube.com/vi/X5ii_itYOHk/maxresdefault.jpg)](https://youtu.be/X5ii_itYOHk)
+
+### 🎬 FASE 2: Setup AI & Konfigurasi Awal (The Core Settings)
 Panduan mengatur "otak" mesin: menentukan folder *Output*, mengatur tenaga CPU (*Dynamic Workers*) agar PC tidak *lag*, dan cara menginstal Plugin **Whisper AI** (`ggml-medium.bin`) secara *offline* untuk fitur Auto-Captioning.
 
-[![Tutorial Fase 2](https://img.youtube.com/vi/YOUR_VIDEO_ID_2/maxresdefault.jpg)](https://youtu.be/YOUR_VIDEO_ID_2)
+[![Tutorial Fase 2](https://img.youtube.com/vi/rVjxAQAPBoI/maxresdefault.jpg)](https://youtu.be/rVjxAQAPBoI)
 
-### 🎬 Fase 3: Workflow Otomatisasi (The Magic)
+### 🎬 FASE 3: Workflow Otomatisasi (The Magic)
 Mendemonstrasikan sihir sebenarnya! Cara mencari video YouTube, memberikan *prompt* rahasia ke Google Gemini, dan mengirim puluhan tugas pemotongan video langsung ke PC Anda hanya dengan satu klik via *Chrome Extension*.
 
-[![Tutorial Fase 3](https://img.youtube.com/vi/YOUR_VIDEO_ID_3/maxresdefault.jpg)](https://youtu.be/YOUR_VIDEO_ID_3)
+[![Tutorial Fase 3](https://img.youtube.com/vi/yh8gNCT7d2M/maxresdefault.jpg)](https://youtu.be/yh8gNCT7d2M)
 
-### 🎬 Fase 4: Kustomisasi Visual & Expert Tips (The Finishing Touch)
-Cara membuat video klip Anda viral: bermain dengan **Global Preset** (mengubah *font*, warna, dan gaya *subtitle*), melihat cara kerja *God Mode* (Face Tracking AI) secara *real-time*, dan tips ahli untuk melakukan *bypass* pada proteksi YouTube (Anti-403).
+### 🎬 FASE 4: Kustomisasi Visual & Expert Tips (The Finishing Touch)
+Cara membuat video klip Anda viral: bermain dengan **Global Preset** (mengubah *font*, warna, dan gaya *subtitle*), melihat cara kerja *God Mode* (Face Tracking AI) secara *real-time*, dan mengoptimalkan hasil akhir *render* Anda.
 
-[![Tutorial Fase 4](https://img.youtube.com/vi/YOUR_VIDEO_ID_4/maxresdefault.jpg)](https://youtu.be/YOUR_VIDEO_ID_4)
-
-> 💡 **PENTING:** Ganti `YOUR_VIDEO_ID_X` pada URL gambar dan tautan di atas dengan ID Video YouTube asli Anda setelah video selesai diunggah.
+[![Tutorial Fase 4](https://img.youtube.com/vi/wko3Kv21FNs/maxresdefault.jpg)](https://youtu.be/wko3Kv21FNs)
 
 ---
 
@@ -63,7 +66,7 @@ Sistem modifikasi *subtitle* visual yang komprehensif. Anda dapat membuat, melih
 
 ### 5. 📥 MULTI-PLATFORM DOWNLOADER (Anti-403 Bypass)
 Menggunakan mesin `yt-dlp` terenkapsulasi yang mampu mengunduh video mentah (Raw Media) dari berbagai *platform* sosial media dengan mulus.
-* **Cookie Injection:** Bypass proteksi *Anti-Bot* dan batasan *Age-Restricted* secara otomatis menggunakan identitas *cookie* tersimpan.
+* **Cookie Injection:** Bypass proteksi *Anti-Bot* dan batasan *Age-Restricted* secara otomatis menggunakan identitas `cookies.txt` tersimpan.
 * **Auto-Typo Handler:** Mencegah *crash* jika pengguna salah memasukkan format URL (Link Typo).
 
 ### 6. 🔌 SEAMLESS HOOK MERGER
