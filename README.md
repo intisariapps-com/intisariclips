@@ -1,6 +1,6 @@
 # 🚀 INTISARI CLIPS: Ultimate Local Workstation Video Software
 
-![Version](https://img.shields.io/badge/Version-2.0_Ultimate-blue.svg)
+![Version](https://img.shields.io/badge/Version-8.6_Ultimate-blue.svg)
 ![Python](https://img.shields.io/badge/Python-3.11+-green.svg)
 ![FastAPI](https://img.shields.io/badge/Backend-FastAPI-009688.svg)
 ![FFmpeg](https://img.shields.io/badge/Engine-FFmpeg-ff6600.svg)
@@ -8,6 +8,36 @@
 **Intisari Clips** adalah perangkat lunak otomatisasi video berbasis *localhost* (Workstation Lokal) yang dirancang untuk mengekstrak, memotong, dan merender klip video viral secara massal. Dilengkapi dengan teknologi AI untuk pelacakan wajah otomatis (*Face Tracking*) dan transkripsi suara (*Auto-Captioning*), software ini bekerja 100% menggunakan tenaga komputasi PC Anda sendiri.
 
 Tidak ada biaya *cloud*, tidak ada batasan server. Semua berjalan secara lokal, cepat, dan privat.
+
+---
+
+## 📺 CARA PENGGUNAAN (VIDEO TUTORIALS)
+
+Kami telah menyiapkan seri tutorial komprehensif untuk membantu Anda menguasai Intisari Clips, mulai dari instalasi awal hingga otomatisasi tingkat lanjut menggunakan Google Gemini. 
+
+*(Klik gambar di bawah untuk menonton video tutorial di YouTube)*
+
+### 🎬 Fase 1: Persiapan & Instalasi (The Foundation)
+Pelajari cara mengunduh *engine* lokal, mengekstrak folder `_internal` dengan benar, menyalakan server lokal (localhost:8588), dan memasang **Intisari Extractor** di browser Chrome Anda.
+
+[![Tutorial Fase 1](https://img.youtube.com/vi/YOUR_VIDEO_ID_1/maxresdefault.jpg)](https://youtu.be/YOUR_VIDEO_ID_1)
+
+### 🎬 Fase 2: Setup AI & Konfigurasi Awal (The Core Settings)
+Panduan mengatur "otak" mesin: menentukan folder *Output*, mengatur tenaga CPU (*Dynamic Workers*) agar PC tidak *lag*, dan cara menginstal Plugin **Whisper AI** (`ggml-medium.bin`) secara *offline* untuk fitur Auto-Captioning.
+
+[![Tutorial Fase 2](https://img.youtube.com/vi/YOUR_VIDEO_ID_2/maxresdefault.jpg)](https://youtu.be/YOUR_VIDEO_ID_2)
+
+### 🎬 Fase 3: Workflow Otomatisasi (The Magic)
+Mendemonstrasikan sihir sebenarnya! Cara mencari video YouTube, memberikan *prompt* rahasia ke Google Gemini, dan mengirim puluhan tugas pemotongan video langsung ke PC Anda hanya dengan satu klik via *Chrome Extension*.
+
+[![Tutorial Fase 3](https://img.youtube.com/vi/YOUR_VIDEO_ID_3/maxresdefault.jpg)](https://youtu.be/YOUR_VIDEO_ID_3)
+
+### 🎬 Fase 4: Kustomisasi Visual & Expert Tips (The Finishing Touch)
+Cara membuat video klip Anda viral: bermain dengan **Global Preset** (mengubah *font*, warna, dan gaya *subtitle*), melihat cara kerja *God Mode* (Face Tracking AI) secara *real-time*, dan tips ahli untuk melakukan *bypass* pada proteksi YouTube (Anti-403).
+
+[![Tutorial Fase 4](https://img.youtube.com/vi/YOUR_VIDEO_ID_4/maxresdefault.jpg)](https://youtu.be/YOUR_VIDEO_ID_4)
+
+> 💡 **PENTING:** Ganti `YOUR_VIDEO_ID_X` pada URL gambar dan tautan di atas dengan ID Video YouTube asli Anda setelah video selesai diunggah.
 
 ---
 
@@ -23,7 +53,7 @@ Ubah video *landscape* (YouTube) menjadi video *portrait* (TikTok/Reels/Shorts) 
 * **CPU Starvation Mitigation:** FFmpeg berjalan di *background* dengan prioritas Windows yang disesuaikan (`BELOW_NORMAL_PRIORITY`), memastikan PC Anda tidak *freeze* atau *lag* meskipun CPU berjalan di 100%.
 
 ### 3. 🌐 COMMAND CENTER & CHROME EXTENSION SYNC
-* **WebSocket Real-Time Sync:** Mengirim tugas ekstraksi video langsung dari browser (*Chrome Extension*) ke mesin lokal Anda secara instan.
+* **WebSocket Real-Time Sync:** Mengirim tugas ekstraksi video langsung dari Google Gemini ke mesin lokal Anda secara instan menggunakan ekstensi **Intisari Extractor**.
 * **Live Dashboard Tracker:** Pantau progres *download*, status *render* klip individu, hingga log terminal mesin secara *real-time* langsung dari antarmuka web yang elegan.
 
 ### 4. 🎨 GLOBAL PRESET STUDIO
@@ -34,7 +64,7 @@ Sistem modifikasi *subtitle* visual yang komprehensif. Anda dapat membuat, melih
 ### 5. 📥 MULTI-PLATFORM DOWNLOADER (Anti-403 Bypass)
 Menggunakan mesin `yt-dlp` terenkapsulasi yang mampu mengunduh video mentah (Raw Media) dari berbagai *platform* sosial media dengan mulus.
 * **Cookie Injection:** Bypass proteksi *Anti-Bot* dan batasan *Age-Restricted* secara otomatis menggunakan identitas *cookie* tersimpan.
-* **Auto-Typo Handler:** Mencegah *crash* jika pengguna salah memasukkan format URL.
+* **Auto-Typo Handler:** Mencegah *crash* jika pengguna salah memasukkan format URL (Link Typo).
 
 ### 6. 🔌 SEAMLESS HOOK MERGER
 Sistem penjahit video (Muxer/Concat) yang menggabungkan video "Hook" (video pemancing) dengan klip utama Anda secara mulus tanpa mengorbankan kualitas audio atau framerate.
@@ -56,9 +86,9 @@ Intisari Clips dibangun dengan pendekatan hibrida (*Environment Agnostic*) yang 
 
 ---
 
-## 🚀 SOROTAN PEMBARUAN (ULTIMATE V2.0)
+## 🚀 SOROTAN PEMBARUAN (ULTIMATE V8.6)
 
-Rilis v2.0 membawa rombakan arsitektur secara fundamental untuk kestabilan jangka panjang:
+Rilis v8.6 membawa rombakan arsitektur secara fundamental untuk kestabilan jangka panjang:
 - **[NEW] Pre-Flight Checklist:** Terminal kini menampilkan validasi konfigurasi dan beban CPU secara rapi sebelum mengeksekusi beban berat.
 - **[NEW] Two-Way Data Binding:** Sinkronisasi sempurna antara *Frontend UI* dan `settings.json` menggunakan Pydantic Models.
 - **[FIX] Zero-Crash Workflow:** Penanganan error yang lebih manusiawi pada proses unduhan dan isolasi memori pada proses FFmpeg.
