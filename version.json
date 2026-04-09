@@ -1,6 +1,5 @@
-
 {
-  "latest_version": 9.0,
-  "zip_url": "https://github.com/intisariapps-/intisari-clips/releases/download/v4.1/patch_v4.1.zip",
-  "changelog": "Perbaikan bug minor dan fitur baru."
+  "latest_version": 9.3,
+  "zip_url": "https://github.com/intisariapps-com/intisariclips/releases/download/9.3/IntisariClips-v9.3.zip",
+  "changelog": "🚀 Update v9.3 - Lebih Stabil, Lebih Rapi, Lebih Cerdas! Fitur: Kebal Gangguan Internet, Smart Truncator Hook, UI Clipper Bersih. Bugfix: Font Universal Sempurna, Transmisi Gambar Stabil, Isolasi Ruang Penyimpanan Aman."
 }
