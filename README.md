@@ -17,11 +17,6 @@ Kami telah menyiapkan seri tutorial komprehensif untuk membantu Anda menguasai I
 
 *(Klik gambar thumbnail di bawah untuk menonton video tutorial di YouTube)*
 
-### 🎬 FASE 0: Bypass 403 (Anti-Bot) Download Video YouTube
-**Wajib ditonton!** Panduan khusus dan mudah dipahami tentang cara mengambil file `cookies.txt` dari browser Anda. Ini adalah kunci rahasia agar mesin *downloader* kita tidak diblokir (Error 403) oleh sistem *Anti-Bot* YouTube saat mengunduh video secara massal.
-
-[![Tutorial Fase 0](https://img.youtube.com/vi/-UtSmwa5Ebs/maxresdefault.jpg)](https://youtu.be/-UtSmwa5Ebs)
-
 ### 🎬 FASE 1: Persiapan & Instalasi (The Foundation)
 Pelajari cara mengunduh *engine* lokal, mengekstrak folder `_internal` dengan benar, menyalakan server lokal (localhost:8588), dan memasang ekstensi **Intisari Extractor** di browser Chrome Anda.
 
