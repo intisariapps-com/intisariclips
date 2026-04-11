@@ -1,6 +1,6 @@
 # 🚀 INTISARI CLIPS: Ultimate Local Workstation Video Software
 
-![Version](https://img.shields.io/badge/Version-8.6_Ultimate-blue.svg)
+![Version](https://img.shields.io/badge/Version-Latest-blue.svg)
 ![Python](https://img.shields.io/badge/Python-3.11+-green.svg)
 ![FastAPI](https://img.shields.io/badge/Backend-FastAPI-009688.svg)
 ![FFmpeg](https://img.shields.io/badge/Engine-FFmpeg-ff6600.svg)
@@ -8,6 +8,11 @@
 **Intisari Clips** adalah perangkat lunak otomatisasi video berbasis *localhost* (Workstation Lokal) yang dirancang untuk mengekstrak, memotong, dan merender klip video viral secara massal. Dilengkapi dengan teknologi AI untuk pelacakan wajah otomatis (*Face Tracking*) dan transkripsi suara (*Auto-Captioning*), software ini bekerja 100% menggunakan tenaga komputasi PC Anda sendiri.
 
 Tidak ada biaya *cloud*, tidak ada batasan server. Semua berjalan secara lokal, cepat, dan privat.
+
+🔥 **DAPATKAN PENGALAMAN MAKSIMAL:**
+Kirim tugas ekstraksi video langsung dari browser Anda dengan satu klik menggunakan ekstensi resmi kami!
+
+[![Download Ekstensi](https://img.shields.io/badge/Chrome_Web_Store-Download_Ekstensi_Terbaru-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://chromewebstore.google.com/detail/intisari-extractor/allogjafdnlfieffbhacnlbkgpklkdlg)
 
 ---
 
@@ -84,12 +89,11 @@ Intisari Clips dibangun dengan pendekatan hibrida (*Environment Agnostic*) yang 
 
 ---
 
-## 🚀 SOROTAN PEMBARUAN (ULTIMATE V8.6)
+## 🚀 CEK PEMBARUAN TERBARU
 
-Rilis v8.6 membawa rombakan arsitektur secara fundamental untuk kestabilan jangka panjang:
-- **[NEW] Pre-Flight Checklist:** Terminal kini menampilkan validasi konfigurasi dan beban CPU secara rapi sebelum mengeksekusi beban berat.
-- **[NEW] Two-Way Data Binding:** Sinkronisasi sempurna antara *Frontend UI* dan `settings.json` menggunakan Pydantic Models.
-- **[FIX] Zero-Crash Workflow:** Penanganan error yang lebih manusiawi pada proses unduhan dan isolasi memori pada proses FFmpeg.
+Kami terus melakukan peningkatan arsitektur dan penambahan fitur baru untuk memastikan stabilitas dan performa terbaik dari Intisari Clips. Pastikan Anda selalu menggunakan versi terbaru!
+
+👉 **[Klik di sini untuk melihat Changelog & Mengunduh Versi Terbaru di Halaman Rilis GitHub](https://github.com/intisariapps-com/intisariclips/releases)**
 
 ---
 
