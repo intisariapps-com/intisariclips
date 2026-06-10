@@ -1,5 +1,25 @@
 {
-  "latest_version": 10.6,
-  "zip_url": "https://github.com/intisariapps-com/intisariclips/releases/download/10.6/INTISARI-CLIPS-V10.6.zip",
-  "changelog": "🚀 Update v9.8 - Smart Truncator Hook, UI Clipper Bersih. Bugfix: Font Universal Sempurna, Transmisi Gambar Stabil, Isolasi Ruang Penyimpanan Aman."
+  "version": "10.2.1",
+  "released": "2026-06-11",
+  "channel": "stable",
+  "min_required": "10.0.0",
+  "platforms": {
+    "windows": {
+      "url": "https://github.com/intisariapps-com/intisariclips/releases/download/v10.2.1/IntisariClips-windows.zip",
+      "sha256": "4d2b17a1c51fdafc69ffc2d38058f27ebf4aaa0e29593a4a1690dfc14b492521",
+      "size_mb": 419.81
+    },
+    "mac_arm64": {
+      "url": "https://github.com/intisariapps-com/intisariclips/releases/download/v10.2.1/IntisariClips-mac-arm64.dmg",
+      "sha256": "",
+      "size_mb": 39.8
+    },
+    "mac_x86_64": {
+      "url": "https://github.com/intisariapps-com/intisariclips/releases/download/v10.2.1/IntisariClips-mac-x86_64.dmg",
+      "sha256": "",
+      "size_mb": 0.0
+    }
+  },
+  "notes": "Rilis Uji Coba: Perbaikan path resolusi AI, rasio preset 9:16, status ImageMagick, dan firebase-admin clean",
+  "notes_url": "https://github.com/intisariapps-com/intisariclips/releases/tag/v10.2.1"
 }
