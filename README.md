@@ -25,10 +25,25 @@ Pelajari cara mengunduh *Setup*, melakukan instalasi yang aman di PC Windows And
 
 [![Tutorial Trial](https://img.youtube.com/vi/UbXig_BG2GE/maxresdefault.jpg)](https://youtu.be/UbXig_BG2GE)
 
-### 🎬 Fase 2: Cara Penggunaan Preset Video (Preset & Subtitle Styling)
+### 🎬 Fase 2 (1): Pengenalan Menu IntisariClips
+Menjelaskan UI utama, dashboard, Command Center, History, dan cara mendapatkan path video hasil render.
+
+[![Tutorial Menu](https://img.youtube.com/vi/PB10cObAXk8/maxresdefault.jpg)](https://youtu.be/PB10cObAXk8)
+
+### 🎬 Fase 2 (2): Cara Penggunaan Preset Video (Preset & Subtitle Styling)
 Panduan mendalam mengenai Tab Preset, pembuatan gaya subtitle kustom (Karaoke Mode), pengaturan posisi watermark/IntiTitle/IntiHook, serta konfigurasi mesin bypass hak cipta.
 
 [![Tutorial Preset](https://img.youtube.com/vi/JiKGYIP1yQQ/maxresdefault.jpg)](https://youtu.be/JiKGYIP1yQQ)
+
+### 🎬 Fase 3 (1): AutoCut via API Analyzer
+Demo potong klip otomatis menggunakan API Key di dalam AI Studio, pengenalan dashboard rendering, dan log server.
+
+[![Tutorial AutoCut API](https://img.youtube.com/vi/23nGnOpWL_0/maxresdefault.jpg)](https://youtu.be/23nGnOpWL_0)
+
+### 🎬 Fase 3 (2): AutoCut via Ekstensi Chrome
+Penggunaan Ekstensi Intisari Extractor untuk workflow gratis via Google Gemini Custom.
+
+[![Tutorial Ekstensi](https://img.youtube.com/vi/zH3-xjvK39g/maxresdefault.jpg)](https://youtu.be/zH3-xjvK39g)
 
 ---
 
