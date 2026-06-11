@@ -22,10 +22,10 @@ Kami telah menyiapkan seri tutorial komprehensif untuk membantu Anda menguasai I
 
 *(Klik gambar thumbnail di bawah untuk menonton video tutorial di YouTube)*
 
-### 🎬 FASE 1: Persiapan & Instalasi (The Foundation)
-Pelajari cara mengunduh *engine* lokal, mengekstrak folder `_internal` dengan benar, menyalakan server lokal (localhost:8588), dan memasang ekstensi **Intisari Extractor** di browser Chrome Anda.
+### 🎬 FASE 1: Instalasi & Klaim Uji Coba Gratis (Trial)
+Pelajari cara mengunduh *Setup*, melakukan instalasi yang aman di PC Windows Anda, dan cara mengklaim Lisensi VIP Gratis (Trial 3 Hari) secara otomatis melalui sistem email kami.
 
-[![Tutorial Fase 1](https://img.youtube.com/vi/X5ii_itYOHk/maxresdefault.jpg)](https://youtu.be/X5ii_itYOHk)
+[![Tutorial Fase 1](https://img.youtube.com/vi/UbXig_BG2GE/maxresdefault.jpg)](https://youtu.be/UbXig_BG2GE)
 
 ### 🎬 FASE 2: Setup AI & Konfigurasi Awal (The Core Settings)
 Panduan mengatur "otak" mesin: menentukan folder *Output*, mengatur tenaga CPU (*Dynamic Workers*) agar PC tidak *lag*, dan cara menginstal Plugin **Whisper AI** (`ggml-medium.bin`) secara *offline* untuk fitur Auto-Captioning.
