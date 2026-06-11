@@ -18,12 +18,17 @@ Kirim tugas ekstraksi video langsung dari browser Anda dengan satu klik mengguna
 
 ## 📺 VIDEO TUTORIAL
 
-Berikut adalah panduan video untuk membantu Anda memulai dengan Intisari Clips, mulai dari instalasi hingga mengklaim lisensi uji coba gratis (Trial):
+Berikut adalah panduan video untuk membantu Anda memulai dengan Intisari Clips, mulai dari instalasi hingga kustomisasi preset:
 
-### 🎬 Instalasi & Klaim Uji Coba Gratis (Trial)
+### 🎬 Fase 1: Instalasi & Klaim Uji Coba Gratis (Trial)
 Pelajari cara mengunduh *Setup*, melakukan instalasi yang aman di PC Windows Anda, dan cara mengklaim Lisensi VIP Gratis (Trial 3 Hari) secara otomatis melalui sistem email kami.
 
 [![Tutorial Trial](https://img.youtube.com/vi/UbXig_BG2GE/maxresdefault.jpg)](https://youtu.be/UbXig_BG2GE)
+
+### 🎬 Fase 2: Cara Penggunaan Preset Video (Preset & Subtitle Styling)
+Panduan mendalam mengenai Tab Preset, pembuatan gaya subtitle kustom (Karaoke Mode), pengaturan posisi watermark/IntiTitle/IntiHook, serta konfigurasi mesin bypass hak cipta.
+
+[![Tutorial Preset](https://img.youtube.com/vi/JiKGYIP1yQQ/maxresdefault.jpg)](https://youtu.be/JiKGYIP1yQQ)
 
 ---
 
