@@ -16,31 +16,14 @@ Kirim tugas ekstraksi video langsung dari browser Anda dengan satu klik mengguna
 
 ---
 
-## 📺 CARA PENGGUNAAN (VIDEO TUTORIALS)
+## 📺 VIDEO TUTORIAL
 
-Kami telah menyiapkan seri tutorial komprehensif untuk membantu Anda menguasai Intisari Clips, mulai dari instalasi awal, mengatasi proteksi YouTube, hingga otomatisasi tingkat lanjut menggunakan Google Gemini. 
+Berikut adalah panduan video untuk membantu Anda memulai dengan Intisari Clips, mulai dari instalasi hingga mengklaim lisensi uji coba gratis (Trial):
 
-*(Klik gambar thumbnail di bawah untuk menonton video tutorial di YouTube)*
-
-### 🎬 FASE 1: Instalasi & Klaim Uji Coba Gratis (Trial)
+### 🎬 Instalasi & Klaim Uji Coba Gratis (Trial)
 Pelajari cara mengunduh *Setup*, melakukan instalasi yang aman di PC Windows Anda, dan cara mengklaim Lisensi VIP Gratis (Trial 3 Hari) secara otomatis melalui sistem email kami.
 
-[![Tutorial Fase 1](https://img.youtube.com/vi/UbXig_BG2GE/maxresdefault.jpg)](https://youtu.be/UbXig_BG2GE)
-
-### 🎬 FASE 2: Setup AI & Konfigurasi Awal (The Core Settings)
-Panduan mengatur "otak" mesin: menentukan folder *Output*, mengatur tenaga CPU (*Dynamic Workers*) agar PC tidak *lag*, dan cara menginstal Plugin **Whisper AI** (`ggml-medium.bin`) secara *offline* untuk fitur Auto-Captioning.
-
-[![Tutorial Fase 2](https://img.youtube.com/vi/rVjxAQAPBoI/maxresdefault.jpg)](https://youtu.be/rVjxAQAPBoI)
-
-### 🎬 FASE 3: Workflow Otomatisasi (The Magic)
-Mendemonstrasikan sihir sebenarnya! Cara mencari video YouTube, memberikan *prompt* rahasia ke Google Gemini, dan mengirim puluhan tugas pemotongan video langsung ke PC Anda hanya dengan satu klik via *Chrome Extension*.
-
-[![Tutorial Fase 3](https://img.youtube.com/vi/yh8gNCT7d2M/maxresdefault.jpg)](https://youtu.be/yh8gNCT7d2M)
-
-### 🎬 FASE 4: Kustomisasi Visual & Expert Tips (The Finishing Touch)
-Cara membuat video klip Anda viral: bermain dengan **Global Preset** (mengubah *font*, warna, dan gaya *subtitle*), melihat cara kerja *God Mode* (Face Tracking AI) secara *real-time*, dan mengoptimalkan hasil akhir *render* Anda.
-
-[![Tutorial Fase 4](https://img.youtube.com/vi/wko3Kv21FNs/maxresdefault.jpg)](https://youtu.be/wko3Kv21FNs)
+[![Tutorial Trial](https://img.youtube.com/vi/UbXig_BG2GE/maxresdefault.jpg)](https://youtu.be/UbXig_BG2GE)
 
 ---
 
