@@ -1,26 +1,26 @@
 {
-  "version": "10.3.0",
+  "version": "10.3.1",
   "released": "2026-06-13",
   "channel": "stable",
   "min_required": "10.0.0",
   "platforms": {
     "windows": {
-      "url": "https://github.com/intisariapps-com/intisariclips/releases/download/v10.3.0/IntisariClips-windows.zip",
+      "url": "https://github.com/intisariapps-com/intisariclips/releases/download/v10.3.1/IntisariClips-windows.zip",
       "setup_url": "https://github.com/intisariapps-com/intisariclips/releases/download/v10.2.1/Setup_IntisariClips.exe",
-      "sha256": "cca3b245cee3b5ce39d617d1ae946caab6b56d776438b5973d44c8ea2747c7a7",
+      "sha256": "a742820e6d9db2ce679e7212a78052a7b2d55612f42a545ad7b16c7a5efa2b08",
       "size_mb": 442.58
     },
     "mac_arm64": {
-      "url": "https://github.com/intisariapps-com/intisariclips/releases/download/v10.3.0/IntisariClips-mac-arm64.zip",
-      "sha256": "",
-      "size_mb": 39.8
+      "url": "https://github.com/intisariapps-com/intisariclips/releases/download/v10.3.1/IntisariClips-mac-arm64.zip",
+      "sha256": "a2eb59a6916f3a98159e4266a7e062689b67f1d2e819941e89370f077cbc60d7",
+      "size_mb": 214.18
     },
     "mac_x86_64": {
-      "url": "https://github.com/intisariapps-com/intisariclips/releases/download/v10.3.0/IntisariClips-mac-x86_64.zip",
-      "sha256": "",
-      "size_mb": 0.0
+      "url": "https://github.com/intisariapps-com/intisariclips/releases/download/v10.3.1/IntisariClips-mac-x86_64.zip",
+      "sha256": "dc27d5952183952f824c322141c587a94fa6a664c2a74edfa7237e2cc7969d09",
+      "size_mb": 187.36
     }
   },
-  "notes": "Transisi GUI Webview, dukungan Mac M1/Intel dual-arch, perbaikan logika sinkronisasi workflow rilis, penambalan bug path versi, serta revolusi UI dengan DOM Diffing anti-jitter.",
-  "notes_url": "https://github.com/intisariapps-com/intisariclips/releases/tag/v10.3.0"
+  "notes": "Mekanisme smart fallback cookie YouTube untuk macOS frozen build, integrasi morphdom, dan perbaikan payload zip auto-updater.",
+  "notes_url": "https://github.com/intisariapps-com/intisariclips/releases/tag/v10.3.1"
 }
