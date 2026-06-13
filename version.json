@@ -1,25 +1,26 @@
 {
-  "version": "10.2.1",
-  "released": "2026-06-11",
+  "version": "10.3.0",
+  "released": "2026-06-13",
   "channel": "stable",
   "min_required": "10.0.0",
   "platforms": {
     "windows": {
-      "url": "https://github.com/intisariapps-com/intisariclips/releases/download/v10.2.1/IntisariClips-windows.zip",
-      "sha256": "4d2b17a1c51fdafc69ffc2d38058f27ebf4aaa0e29593a4a1690dfc14b492521",
-      "size_mb": 419.81
+      "url": "https://github.com/intisariapps-com/intisariclips/releases/download/v10.3.0/IntisariClips-windows.zip",
+      "setup_url": "https://github.com/intisariapps-com/intisariclips/releases/download/v10.2.1/Setup_IntisariClips.exe",
+      "sha256": "cca3b245cee3b5ce39d617d1ae946caab6b56d776438b5973d44c8ea2747c7a7",
+      "size_mb": 442.58
     },
     "mac_arm64": {
-      "url": "https://github.com/intisariapps-com/intisariclips/releases/download/v10.2.1/IntisariClips-mac-arm64.dmg",
+      "url": "https://github.com/intisariapps-com/intisariclips/releases/download/v10.3.0/IntisariClips-mac-arm64.zip",
       "sha256": "",
       "size_mb": 39.8
     },
     "mac_x86_64": {
-      "url": "https://github.com/intisariapps-com/intisariclips/releases/download/v10.2.1/IntisariClips-mac-x86_64.dmg",
+      "url": "https://github.com/intisariapps-com/intisariclips/releases/download/v10.3.0/IntisariClips-mac-x86_64.zip",
       "sha256": "",
       "size_mb": 0.0
     }
   },
-  "notes": "Rilis Uji Coba: Perbaikan path resolusi AI, rasio preset 9:16, status ImageMagick, dan firebase-admin clean",
-  "notes_url": "https://github.com/intisariapps-com/intisariclips/releases/tag/v10.2.1"
+  "notes": "Transisi GUI Webview, dukungan Mac M1/Intel dual-arch, perbaikan logika sinkronisasi workflow rilis, penambalan bug path versi, serta revolusi UI dengan DOM Diffing anti-jitter.",
+  "notes_url": "https://github.com/intisariapps-com/intisariclips/releases/tag/v10.3.0"
 }
