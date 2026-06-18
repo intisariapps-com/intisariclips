@@ -12,7 +12,8 @@ Tidak ada biaya *cloud*, tidak ada batasan server. Semua berjalan secara lokal, 
 🔥 **DAPATKAN PENGALAMAN MAKSIMAL:**
 Kirim tugas ekstraksi video langsung dari browser Anda dengan satu klik menggunakan ekstensi resmi kami!
 
-[![Download Ekstensi](https://img.shields.io/badge/Chrome_Web_Store-Download_Ekstensi_Terbaru-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://chromewebstore.google.com/detail/intisari-extractor/allogjafdnlfieffbhacnlbkgpklkdlg)
+[![Download Ekstensi](https://img.shields.io/badge/GitHub-Download_Ekstensi_v5.5_ZIP-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/intisariapps-com/intisariclips/releases/download/v10.3.1/Intisari_Extractor_5.5.zip)
+
 
 ---
 
@@ -20,10 +21,15 @@ Kirim tugas ekstraksi video langsung dari browser Anda dengan satu klik mengguna
 
 Berikut adalah panduan video untuk membantu Anda memulai dengan Intisari Clips, mulai dari instalasi hingga kustomisasi preset:
 
-### 🎬 Fase 1: Instalasi & Klaim Uji Coba Gratis (Trial)
+### 🎬 Fase 1 (Win): Instalasi & Klaim Uji Coba Gratis (Trial)
 Pelajari cara mengunduh *Setup*, melakukan instalasi yang aman di PC Windows Anda, dan cara mengklaim Lisensi VIP Gratis (Trial 3 Hari) secara otomatis melalui sistem email kami.
 
-[![Tutorial Trial](https://img.youtube.com/vi/UbXig_BG2GE/maxresdefault.jpg)](https://youtu.be/UbXig_BG2GE)
+[![Tutorial Trial Win](https://img.youtube.com/vi/UbXig_BG2GE/maxresdefault.jpg)](https://youtu.be/UbXig_BG2GE)
+
+### 🎬 Fase 1 (Mac): Instalasi & Klaim Uji Coba Gratis (Trial)
+Pelajari cara menginstal aplikasi di macOS, melakukan bypass keamanan Gatekeeper, dan mengunduh komponen AI otomatis.
+
+[![Tutorial Trial Mac](https://img.youtube.com/vi/0ZMNpUPP3Is/maxresdefault.jpg)](https://youtu.be/0ZMNpUPP3Is)
 
 ### 🎬 Fase 2 (1): Pengenalan Menu IntisariClips
 Menjelaskan UI utama, dashboard, Command Center, History, dan cara mendapatkan path video hasil render.
@@ -40,10 +46,14 @@ Demo potong klip otomatis menggunakan API Key di dalam AI Studio, pengenalan das
 
 [![Tutorial AutoCut API](https://img.youtube.com/vi/23nGnOpWL_0/maxresdefault.jpg)](https://youtu.be/23nGnOpWL_0)
 
-### 🎬 Fase 3 (2): AutoCut via Ekstensi Chrome
-Penggunaan Ekstensi Intisari Extractor untuk workflow gratis via Google Gemini Custom.
+### 🎬 Fase 3 (2): AutoCut via Ekstensi Chrome & Gemini Custom AI
+Penggunaan Ekstensi Intisari Extractor untuk workflow gratis via Google Gemini Custom AI.
 
 [![Tutorial Ekstensi](https://img.youtube.com/vi/zH3-xjvK39g/maxresdefault.jpg)](https://youtu.be/zH3-xjvK39g)
+
+> 💡 **Gemini Custom AI Link:** Anda dapat menggunakan asisten AI khusus kami di sini:  
+> [👉 Akses Gemini Custom AI Intisari](https://gemini.google.com/gem/1on4dsBC62Q2chNbsU5GQZj8I5oWMoMXa?usp=sharing)
+
 
 ---
 
