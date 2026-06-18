@@ -8,14 +8,8 @@
 **Intisari Clips** adalah perangkat lunak otomatisasi video berbasis *localhost* (Workstation Lokal) yang dirancang untuk mengekstrak, memotong, dan merender klip video viral secara massal. Dilengkapi dengan teknologi AI untuk pelacakan wajah otomatis (*Face Tracking*) dan transkripsi suara (*Auto-Captioning*), software ini bekerja 100% menggunakan tenaga komputasi PC Anda sendiri.
 
 Tidak ada biaya *cloud*, tidak ada batasan server. Semua berjalan secara lokal, cepat, dan privat.
-
-🔥 **DAPATKAN PENGALAMAN MAKSIMAL:**
-Kirim tugas ekstraksi video langsung dari browser Anda dengan satu klik menggunakan ekstensi resmi kami!
-
-[![Download Ekstensi](https://img.shields.io/badge/GitHub-Download_Ekstensi_v5.5_ZIP-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/intisariapps-com/intisariclips/releases/download/v10.3.1/Intisari_Extractor_5.5.zip)
-
-
 ---
+
 
 ## 📺 VIDEO TUTORIAL
 
@@ -50,6 +44,9 @@ Demo potong klip otomatis menggunakan API Key di dalam AI Studio, pengenalan das
 Penggunaan Ekstensi Intisari Extractor untuk workflow gratis via Google Gemini Custom AI.
 
 [![Tutorial Ekstensi](https://img.youtube.com/vi/zH3-xjvK39g/maxresdefault.jpg)](https://youtu.be/zH3-xjvK39g)
+
+> 📥 **Unduh Ekstensi:**  
+> [![Download Ekstensi](https://img.shields.io/badge/GitHub-Download_Ekstensi_v5.5_ZIP-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/intisariapps-com/intisariclips/releases/download/v10.3.1/Intisari_Extractor_5.5.zip)
 
 > 💡 **Gemini Custom AI Link:** Anda dapat menggunakan asisten AI khusus kami di sini:  
 > [👉 Akses Gemini Custom AI Intisari](https://gemini.google.com/gem/1on4dsBC62Q2chNbsU5GQZj8I5oWMoMXa?usp=sharing)
