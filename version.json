@@ -1,26 +1,28 @@
 {
-  "version": "10.3.1",
-  "released": "2026-06-13",
+  "version": "10.3.2",
+  "released": "2026-06-26",
   "channel": "stable",
   "min_required": "10.0.0",
   "platforms": {
     "windows": {
-      "url": "https://github.com/intisariapps-com/intisariclips/releases/download/v10.3.1/IntisariClips-windows.zip",
+      "url": "https://github.com/intisariapps-com/intisariclips/releases/download/v10.3.2/IntisariClips-windows.zip",
       "setup_url": "https://github.com/intisariapps-com/intisariclips/releases/download/v10.2.1/Setup_IntisariClips.exe",
-      "sha256": "a742820e6d9db2ce679e7212a78052a7b2d55612f42a545ad7b16c7a5efa2b08",
-      "size_mb": 442.58
+      "sha256": "8df64557cca102ae307b355f20e0e02cabf9b5b5cef3359fd871c3d402248857",
+      "size_mb": 443.37
     },
     "mac_arm64": {
       "url": "https://github.com/intisariapps-com/intisariclips/releases/download/v10.3.1/IntisariClips-mac-arm64.zip",
-      "sha256": "a2eb59a6916f3a98159e4266a7e062689b67f1d2e819941e89370f077cbc60d7",
+      "dmg_url": "https://github.com/intisariapps-com/intisariclips/releases/download/v10.3.1/IntisariClips-mac-arm64-10.3.1.dmg",
+      "sha256": "3d9d9abeff1841e08d1a7ac4e906be80bbaa34e77b7f9b1141f3eb40111a8d95",
       "size_mb": 214.18
     },
     "mac_x86_64": {
       "url": "https://github.com/intisariapps-com/intisariclips/releases/download/v10.3.1/IntisariClips-mac-x86_64.zip",
-      "sha256": "dc27d5952183952f824c322141c587a94fa6a664c2a74edfa7237e2cc7969d09",
+      "dmg_url": "https://github.com/intisariapps-com/intisariclips/releases/download/v10.3.1/IntisariClips-mac-x86_64-10.3.1.dmg",
+      "sha256": "9bd55cb393358f19956bd1064a9e4fa28dd9d806ef78f40092e5004b8b735600",
       "size_mb": 187.36
     }
   },
-  "notes": "Mekanisme smart fallback cookie YouTube untuk macOS frozen build, integrasi morphdom, dan perbaikan payload zip auto-updater.",
-  "notes_url": "https://github.com/intisariapps-com/intisariclips/releases/tag/v10.3.1"
+  "notes": "Pemisahan unit test, alokasi port dinamis launcher-server, pembersihan server otomatis saat GUI ditutup, deteksi GPU via PowerShell, perlindungan lisensi trial, dan tautan premium dashboard.",
+  "notes_url": "https://github.com/intisariapps-com/intisariclips/releases/tag/v10.3.2"
 }
