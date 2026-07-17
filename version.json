@@ -1,14 +1,14 @@
 {
-  "version": "10.3.2",
-  "released": "2026-06-26",
+  "version": "10.3.3",
+  "released": "2026-07-18",
   "channel": "stable",
   "min_required": "10.0.0",
   "platforms": {
     "windows": {
-      "url": "https://github.com/intisariapps-com/intisariclips/releases/download/v10.3.2/IntisariClips-windows.zip",
+      "url": "https://github.com/intisariapps-com/intisariclips/releases/download/v10.3.3/IntisariClips-windows.zip",
       "setup_url": "https://github.com/intisariapps-com/intisariclips/releases/download/v10.2.1/Setup_IntisariClips.exe",
-      "sha256": "8df64557cca102ae307b355f20e0e02cabf9b5b5cef3359fd871c3d402248857",
-      "size_mb": 443.37
+      "sha256": "aa90046d2c318838cecd4b6ddb02182503910acf35a6bbf91cac6adfdd4332ab",
+      "size_mb": 443.45
     },
     "mac_arm64": {
       "url": "https://github.com/intisariapps-com/intisariclips/releases/download/v10.3.1/IntisariClips-mac-arm64.zip",
@@ -23,6 +23,6 @@
       "size_mb": 187.36
     }
   },
-  "notes": "Pemisahan unit test, alokasi port dinamis launcher-server, pembersihan server otomatis saat GUI ditutup, deteksi GPU via PowerShell, perlindungan lisensi trial, dan tautan premium dashboard.",
-  "notes_url": "https://github.com/intisariapps-com/intisariclips/releases/tag/v10.3.2"
+  "notes": "Modularisasi engine & frontend, perbaikan deteksi plugin AI, dan perbaikan pencarian font di Windows dev mode & instalasi Program Files",
+  "notes_url": "https://github.com/intisariapps-com/intisariclips/releases/tag/v10.3.3"
 }
