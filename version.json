@@ -1,14 +1,14 @@
 {
-  "version": "10.3.3",
-  "released": "2026-07-18",
+  "version": "10.4.0",
+  "released": "2026-07-22",
   "channel": "stable",
   "min_required": "10.0.0",
   "platforms": {
     "windows": {
-      "url": "https://github.com/intisariapps-com/intisariclips/releases/download/v10.3.3/IntisariClips-windows.zip",
+      "url": "https://github.com/intisariapps-com/intisariclips/releases/download/v10.4.0/IntisariClips-windows.zip",
       "setup_url": "https://github.com/intisariapps-com/intisariclips/releases/download/v10.2.1/Setup_IntisariClips.exe",
-      "sha256": "aa90046d2c318838cecd4b6ddb02182503910acf35a6bbf91cac6adfdd4332ab",
-      "size_mb": 443.45
+      "sha256": "1a568b9ff43bd2b761cc7f85ad2dae05682f2a1dbfd3a4edfa0559fabfa6f0ba",
+      "size_mb": 443.47
     },
     "mac_arm64": {
       "url": "https://github.com/intisariapps-com/intisariclips/releases/download/v10.3.1/IntisariClips-mac-arm64.zip",
@@ -23,6 +23,6 @@
       "size_mb": 187.36
     }
   },
-  "notes": "Modularisasi engine & frontend, perbaikan deteksi plugin AI, dan perbaikan pencarian font di Windows dev mode & instalasi Program Files",
-  "notes_url": "https://github.com/intisariapps-com/intisariclips/releases/tag/v10.3.3"
+  "notes": "Integrasi otomatisasi pipeline rilis member area, modularisasi backend engine, dan penguatan pengujian lokal",
+  "notes_url": "https://github.com/intisariapps-com/intisariclips/releases/tag/v10.4.0"
 }
