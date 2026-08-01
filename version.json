@@ -1,28 +1,28 @@
 {
-  "version": "10.4.0",
-  "released": "2026-07-22",
+  "version": "10.4.1",
+  "released": "2026-08-01",
   "channel": "stable",
   "min_required": "10.0.0",
   "platforms": {
     "windows": {
-      "url": "https://github.com/intisariapps-com/intisariclips/releases/download/v10.4.0/IntisariClips-windows.zip",
+      "url": "https://github.com/intisariapps-com/intisariclips/releases/download/v10.4.1/IntisariClips-windows.zip",
       "setup_url": "https://github.com/intisariapps-com/intisariclips/releases/download/v10.2.1/Setup_IntisariClips.exe",
-      "sha256": "1a568b9ff43bd2b761cc7f85ad2dae05682f2a1dbfd3a4edfa0559fabfa6f0ba",
-      "size_mb": 443.47
+      "sha256": "f4938cf9038dff219e6231aec0b94c4c7d3857647f4c15917e732319f17fb669",
+      "size_mb": 472.68
     },
     "mac_arm64": {
-      "url": "https://github.com/intisariapps-com/intisariclips/releases/download/v10.3.1/IntisariClips-mac-arm64.zip",
-      "dmg_url": "https://github.com/intisariapps-com/intisariclips/releases/download/v10.3.1/IntisariClips-mac-arm64-10.3.1.dmg",
-      "sha256": "3d9d9abeff1841e08d1a7ac4e906be80bbaa34e77b7f9b1141f3eb40111a8d95",
-      "size_mb": 214.18
+      "url": "https://github.com/intisariapps-com/intisariclips/releases/download/v10.4.0/IntisariClips-mac-arm64.zip",
+      "dmg_url": "https://github.com/intisariapps-com/intisariclips/releases/download/v10.4.0/IntisariClips-mac-arm64-10.4.0.dmg",
+      "sha256": "d1bb8ff2f996581f79582053dc5212c6ef109eb7f385d0d719983f47bceb9550",
+      "size_mb": 216.01
     },
     "mac_x86_64": {
-      "url": "https://github.com/intisariapps-com/intisariclips/releases/download/v10.3.1/IntisariClips-mac-x86_64.zip",
-      "dmg_url": "https://github.com/intisariapps-com/intisariclips/releases/download/v10.3.1/IntisariClips-mac-x86_64-10.3.1.dmg",
-      "sha256": "9bd55cb393358f19956bd1064a9e4fa28dd9d806ef78f40092e5004b8b735600",
-      "size_mb": 187.36
+      "url": "https://github.com/intisariapps-com/intisariclips/releases/download/v10.4.0/IntisariClips-mac-x86_64.zip",
+      "dmg_url": "https://github.com/intisariapps-com/intisariclips/releases/download/v10.4.0/IntisariClips-mac-x86_64-10.4.0.dmg",
+      "sha256": "3b810a3544916f258275059003462a5f57950ac98f8713ffd1539701b5d56a5e",
+      "size_mb": 187.46
     }
   },
-  "notes": "Integrasi otomatisasi pipeline rilis member area, modularisasi backend engine, dan penguatan pengujian lokal",
-  "notes_url": "https://github.com/intisariapps-com/intisariclips/releases/tag/v10.4.0"
+  "notes": "Revert lisensi tradisional murni, fix noise asyncio WinError 10054, sinkronisasi triage status ke disk, dan ikon EXE multi-resolusi 2000x2000px",
+  "notes_url": "https://github.com/intisariapps-com/intisariclips/releases/tag/v10.4.1"
 }
