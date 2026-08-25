@@ -1,20 +1,20 @@
 {
-  "version": "10.5.0",
-  "released": "2026-08-01",
+  "version": "10.5.1",
+  "released": "2026-08-25",
   "channel": "stable",
   "min_required": "10.0.0",
   "platforms": {
     "windows": {
       "url": "https://github.com/intisariapps-com/intisariclips/releases/latest/download/IntisariClips-windows.zip",
       "setup_url": "https://github.com/intisariapps-com/intisariclips/releases/latest/download/Setup_IntisariClips.exe",
-      "sha256": "c64c6454f06cdbf3638b2341456bac0a916a4027d23204b495395f2825149e8a",
-      "size_mb": 474.47
+      "sha256": "ea35a5342a9cb870651badb79c74473b13510521e8e1e717e6ff536271bba1fd",
+      "size_mb": 570.48
     },
     "mac_arm64": {
       "url": "https://github.com/intisariapps-com/intisariclips/releases/latest/download/IntisariClips-mac-arm64.zip",
       "dmg_url": "https://github.com/intisariapps-com/intisariclips/releases/latest/download/IntisariClips-mac-arm64.dmg",
-      "sha256": "56aaf5ef6eb492bb6e4dc51e1a41a7a68833a95bae0bac2bd6e9587c005d719f",
-      "size_mb": 214.41
+      "sha256": "c1351dfe6a552c22f4aeb0b558dc62606eea4a235463bd6a793d5a2af8ba3da6",
+      "size_mb": 227.35
     },
     "mac_x86_64": {
       "url": "https://github.com/intisariapps-com/intisariclips/releases/latest/download/IntisariClips-mac-x86_64.zip",
@@ -23,6 +23,6 @@
       "size_mb": 187.46
     }
   },
-  "notes": "Revert lisensi tradisional murni, fix noise asyncio WinError 10054, sinkronisasi triage status ke disk, dan ikon EXE multi-resolusi 2000x2000px",
+  "notes": "Cookie Gemini dinamis dari folder Data & Logs, sistem pindai otomatis & sinkronisasi inti_stats.json, Export TXT lengkap (5 hook + skor viral + caption), Protokol Hook V1.8, pindah tombol Analisis Video Lain ke toolbar aksi massal",
   "notes_url": "https://github.com/intisariapps-com/intisariclips/releases/latest"
 }
