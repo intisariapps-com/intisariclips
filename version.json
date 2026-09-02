@@ -3,6 +3,11 @@
   "released": "2026-08-25",
   "channel": "stable",
   "min_required": "10.0.0",
+  "trial": {
+    "enabled": true,
+    "days": 3,
+    "url": "https://hub.intisariapps.com/trial/?app_id=intisari-clips"
+  },
   "platforms": {
     "windows": {
       "url": "https://github.com/intisariapps-com/intisariclips/releases/latest/download/IntisariClips-windows.zip",
