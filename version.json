@@ -4,7 +4,7 @@
   "channel": "stable",
   "min_required": "10.0.0",
   "trial": {
-    "enabled": false,
+    "enabled": true,
     "days": 3,
     "url": "https://hub.intisariapps.com/trial/?app_id=intisari-clips"
   },
